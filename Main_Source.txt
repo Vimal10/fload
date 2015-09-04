@@ -3,3 +3,5 @@
 Dependancy Injection
 
 Auto loading
+
+https://paragonie.com/blog/2015/05/using-encryption-and-authentication-correctly
