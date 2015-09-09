@@ -1,5 +1,7 @@
 //TO LEARN
 
+closure
+interface
 Dependancy Injection
 Inversion of Control
 Auto loading
