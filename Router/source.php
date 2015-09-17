@@ -1,7 +1,7 @@
 
 <?php
 //http://stackoverflow.com/questions/12085619/php-rest-put-delete-options
-
+$method = strtolower($_SERVER['REQUEST_METHOD']);
 if( $method === 'post' && isset($_REQUEST['REQUEST_METHOD'])) {
     $tmp = strtolower((string)$_REQUEST['REQUEST_METHOD']);
     if( in_array( $tmp, array( 'put', 'delete', 'head', 'options' ))) {
