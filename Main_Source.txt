@@ -19,3 +19,35 @@ https://github.com/usmanhalalit/pixie
 
 //Full MVC
 http://www.phpro.org/tutorials/Model-View-Controller-MVC.html
+
+
+
+//Dir
+
+admin
+    config
+    core
+    controller
+    models
+    
+front
+    config
+    core
+    controller
+    models
+_protected
+_core
+views
+
+
+
+
+
+controllers
+models
+views
+config
+admin
+  controllers
+  models
+  
